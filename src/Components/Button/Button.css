@@ -1,0 +1,9 @@
+.MetaMaskButton {
+  display: flex;
+  flex-direction: column;
+  place-items: center;
+  min-width: 100vw;
+}
+button {
+  margin-top: 0.5em;
+}
