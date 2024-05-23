@@ -55,7 +55,16 @@ This project is an NFT Indexer that fetches and displays all ERC-721 tokens owne
 ![Alt text](./public/Screenshot%201.png)
 ![Alt text](./public/Screenshot%202.png)
 
-## Contributing
+## Acknowledgments
+
+This project is based on [nft-indexer](https://github.com/alchemyplatform/nft-indexer) by the following contributors:
+
+- AlvaroLuken (Alvaro Luken)
+- arjunadhikary (Arjun Adhikari)
+- yash251 (Yash Jagtap)
+
+Significant changes and new features have been added by [Kahlob Bookout](https://github.com/HydraTechnologies-ops).
+
 
 Feel free to fork the repository and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
 
